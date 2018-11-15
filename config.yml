@@ -1,0 +1,9 @@
+#metrics:
+#  .ftl:
+#    strict_syntax: yes
+
+logging:
+  level: INFO
+  loggers:
+    com.b2wdigital.dwsession: DEBUG
+

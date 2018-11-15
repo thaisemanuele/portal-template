@@ -1,0 +1,8 @@
+dwsession/resources/LoginResource.class
+dwsession/auth/DWSessionAuthenticator.class
+dwsession/DWSessionConfiguration.class
+dwsession/api/User.class
+dwsession/view/LoginView.class
+dwsession/view/HomeView.class
+dwsession/DWSessionApplication.class
+dwsession/resources/HomeResource.class
